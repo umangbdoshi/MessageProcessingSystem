@@ -1,7 +1,8 @@
 ## Code Solution README
 
 ### Overview
-JP Morgan Ireland interview coding task
+JP Morgan Ireland interview coding task.
+
 This code solution focuses on solving the problem rather than its structure. While it may not be production-ready, the core logic is sound and effectively processes messages from the TestData.txt file. The application logs output after every 10th message and pauses after processing the 50th message.
 
 ### Features
